@@ -1,6 +1,6 @@
 package exercicio9;
 
-public class VerificaoIdade {
+public class VerificadorIdade {
     public static void main(String[] args) {
         int idade = 17;
         String mensagem = null;

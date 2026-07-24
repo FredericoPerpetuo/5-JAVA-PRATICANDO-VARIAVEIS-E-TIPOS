@@ -4,7 +4,7 @@ import exercicio5.entities.Livro;
 
 import java.math.BigDecimal;
 
-public class CategorizandoLivros {
+public class CategorizadorLivros {
     public static void main(String[] args) {
         Livro livro1 = new Livro("Dom Casmurro", "Machado de Assis",
                 208, new BigDecimal("59.90"), 'F');

@@ -1,6 +1,6 @@
 package exercicio3;
 
-public class Media {
+public class ExtratorMedia {
     public static void main(String[] args) {
         double nota1 = 7.5;
         double nota2 = 8.0;

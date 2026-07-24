@@ -4,7 +4,7 @@ import exercicio6.entities.Produto;
 
 import java.math.BigDecimal;
 
-public class CategorizandoProduto {
+public class CategorizadorProdutos {
     public static void main(String[] args) {
         Produto prod1 = new Produto("Mouse", new BigDecimal("50.00"));//Econômico
         Produto prod2 = new Produto("Mouse Pad", new BigDecimal("49.99"));//Econômico

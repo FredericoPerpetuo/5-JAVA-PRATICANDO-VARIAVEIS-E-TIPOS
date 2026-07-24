@@ -1,6 +1,6 @@
 package exercicio10;
 
-public class PlanejaViagem {
+public class PlanejadorViagem {
     public static void main(String[] args) {
         double consumoMedio = 12.5;
         double capacidadeTanque = 50;
